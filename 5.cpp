@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-cout<<"following are the types of operators in c++"<<endl;
+cout<<"following are the types of arithemetic operators in c++"<<endl;
 int a=4 , b=5;
 cout<<"the value of a+b is :"<<a+b<<endl;
 cout<<"the value of a-b is :"<<a-b<<endl;
